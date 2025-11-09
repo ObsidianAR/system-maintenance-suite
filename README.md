@@ -27,7 +27,7 @@ This project is a collection of Bash scripts designed to automate common Linux s
 
 ## Example Backup Execution
 - Enter the directory you want to back up:
-- /home/your_username/Documents
+- like : /home/your_username/Documents
 - Backup completed successfully!
 
 
