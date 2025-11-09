@@ -31,7 +31,7 @@ This project is a collection of Bash scripts designed to automate common Linux s
 <img width="2327" height="864" alt="Screenshot from 2025-11-09 15-19-41" src="https://github.com/user-attachments/assets/b871261e-59bc-471c-9b68-cc74ea64a28a" />
 
 
-1) Take Backup  
+1) Take a Backup  
 2) Update System  
 3) Monitor System Logs  
 4) Exit  
@@ -41,10 +41,14 @@ Enter your choice:
 - Enter the directory you want to back up:
 - like: `/home/your_username/Documents`
 - Backup completed successfully!
+<img width="1511" height="974" alt="1" src="https://github.com/user-attachments/assets/fcbb4a87-c9d5-4319-b935-3f7bbbf0c71d" />
+
 
 ## Example Log Monitoring Execution
 - Enter keyword to monitor (default: error):
 - If you press Enter, it will monitor logs for the keyword "error"
+<img width="1516" height="1407" alt="2" src="https://github.com/user-attachments/assets/037a1acb-ab64-427e-a218-aeb41a7e199b" />
+
 
 ### Log Monitoring Keywords
 
@@ -63,11 +67,5 @@ Enter your choice:
 
 ## Author
 ARYAN RAJ — B.Tech, 7th Semester, Capstone Project
-
-
-<img width="1511" height="974" alt="1" src="https://github.com/user-attachments/assets/fcbb4a87-c9d5-4319-b935-3f7bbbf0c71d" />
-
-<img width="1516" height="1407" alt="2" src="https://github.com/user-attachments/assets/037a1acb-ab64-427e-a218-aeb41a7e199b" />
-
 
 <img width="1167" height="510" alt="3" src="https://github.com/user-attachments/assets/46e0070f-e270-44b0-9672-ecd746eb9506" />
