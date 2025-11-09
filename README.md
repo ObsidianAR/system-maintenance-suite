@@ -44,10 +44,16 @@ Enter your choice:
 <img width="1511" height="974" alt="1" src="https://github.com/user-attachments/assets/fcbb4a87-c9d5-4319-b935-3f7bbbf0c71d" />
 
 
+
+<img width="1516" height="1407" alt="2" src="https://github.com/user-attachments/assets/037a1acb-ab64-427e-a218-aeb41a7e199b" />
+
+
 ## Example Log Monitoring Execution
 - Enter keyword to monitor (default: error):
 - If you press Enter, it will monitor logs for the keyword "error"
-<img width="1516" height="1407" alt="2" src="https://github.com/user-attachments/assets/037a1acb-ab64-427e-a218-aeb41a7e199b" />
+<img width="1167" height="510" alt="3" src="https://github.com/user-attachments/assets/46e0070f-e270-44b0-9672-ecd746eb9506" />
+
+
 
 
 ### Log Monitoring Keywords
@@ -68,4 +74,4 @@ Enter your choice:
 ## Author
 ARYAN RAJ — B.Tech, 7th Semester, Capstone Project
 
-<img width="1167" height="510" alt="3" src="https://github.com/user-attachments/assets/46e0070f-e270-44b0-9672-ecd746eb9506" />
+
