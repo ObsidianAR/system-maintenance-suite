@@ -20,6 +20,8 @@ This project is a collection of Bash scripts designed to automate common Linux s
 3. Start the system maintenance menu:
    ./menu.sh
 
+<img width="2327" height="864" alt="Screenshot from 2025-11-09 15-19-41" src="https://github.com/user-attachments/assets/b871261e-59bc-471c-9b68-cc74ea64a28a" />
+
 ## Requirements
 - Linux system (Ubuntu/Debian/WSL/Fedora/Arch)
 - sudo privileges
@@ -29,6 +31,7 @@ This project is a collection of Bash scripts designed to automate common Linux s
 - Enter the directory you want to back up:
 - like : /home/your_username/Documents
 - Backup completed successfully!
+
 
 
 
